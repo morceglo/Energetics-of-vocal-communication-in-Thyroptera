@@ -14,6 +14,9 @@ Costs of calling in disc-winged bats
 
 We measure energetic expenditure during acoustic signaling in Spix’s disc-winged bats (Thyroptera tricolor)
 
+##Data
+* [Data](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/CostCalling_Thtr.XLSX)
+
 ## Analyses
 
 * [Statistical analysis](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/Energetics%20of%20calling%20in%20Thyroptera.R)
