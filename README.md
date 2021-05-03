@@ -9,13 +9,6 @@ editor_options:
 <!-- Short Description  -->
 Costs of calling in disc-winged bats
 
-*Updated on `r Sys.time()`*
-
-
-## Table of contents
-* [General info](#general-info)
-  * [Analyses](#Analyses)
-      * [Contact](#contact)
 
 ## General info
 
@@ -26,7 +19,7 @@ We measure energetic expenditure during acoustic signaling in Spix’s disc-wing
 * [Statistical analysis](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/Energetics%20of%20calling%20in%20Thyroptera.R)
 
 ## Status
-Project is: _under_consideration_in_JEB_
+Project is: Under consideration in Journal of Experimental Biology
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
