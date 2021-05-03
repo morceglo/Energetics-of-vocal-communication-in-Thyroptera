@@ -1,8 +1,6 @@
 ---
 title: The energetics of social signaling during roost location in Spix’s disc-winged bats
 author: Gloriana Chaverri, Natalia Ivone Sandoval-Herrera, Paula Iturralde-Pólit, Adarli Romero-Vásquez, Silvia Chaves-Ramírez and Maria Sagot 
-output: github_document
-editor_options:
   chunk_output_type: console
 ---
 
