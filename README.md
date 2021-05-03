@@ -8,7 +8,7 @@ Gloriana Chaverri, Natalia Ivone Sandoval-Herrera, Paula Iturralde-Pólit, Adarl
 
 We measure energetic expenditure during acoustic signaling in Spix’s disc-winged bats (Thyroptera tricolor)
 
-##Data
+## Data
 * [Data](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/CostCalling_Thtr.XLSX)
 
 ## Analyses
