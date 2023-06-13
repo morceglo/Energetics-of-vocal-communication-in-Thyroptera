@@ -16,7 +16,7 @@ We measure energetic expenditure during acoustic signaling in Spix’s disc-wing
 * [Statistical analysis](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/Energetics%20of%20calling%20in%20Thyroptera.R)
 
 ## Status
-Project is: Accepted in Journal of Experimental Biology
+Project is: Accepted in Journal of Experimental Biology (https://doi.org/10.1242/jeb.238279)
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
